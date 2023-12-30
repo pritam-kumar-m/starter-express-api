@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node index.ts"
+    "test": "jest",
+    "start": "ts-node src/server.ts"
   },
   "repository": {
     "type": "git",
