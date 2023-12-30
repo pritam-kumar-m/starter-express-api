@@ -18,6 +18,8 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "@types/cors": "^2.8.17",
+    "express": "^4.18.2",
+    "origin": "^0.8.6"
   }
 }
